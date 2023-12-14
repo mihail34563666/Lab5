@@ -8,7 +8,6 @@
 </head>
 <body>
 
-    <!-- Fixed link to Figma template -->
     <a href="link-to-figma-template" class="figma-link" target="_blank">Figma Template</a>
 
     <header>
@@ -23,19 +22,15 @@
     </header>
 
     <section id="home">
-        <!-- Content for the home section goes here -->
     </section>
 
     <section id="about">
-        <!-- Content for the about section goes here -->
     </section>
 
     <section id="portfolio">
-        <!-- Content for the portfolio section goes here -->
     </section>
 
     <section id="contact">
-        <!-- Content for the contact section goes here -->
     </section>
 
 </body>
