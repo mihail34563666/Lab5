@@ -29,7 +29,6 @@ section {
     padding: 40px;
 }
 
-/* Additional styling goes here */
 
 .figma-link {
     position: fixed;
